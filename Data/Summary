@@ -1,0 +1,10 @@
+This dataset contains these tables -
+
+
+listings → listing info (price, host, room type, neighborhood, etc.).
+
+calendar → availability + daily price.
+
+reviews → text reviews with date & listing_id.
+
+neighbourhoods → metadata for mapping.
